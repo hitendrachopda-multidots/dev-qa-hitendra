@@ -320,6 +320,7 @@ Automatic updates should work great for you.  As always, though, we recommend ba
 == Changelog ==
 = 1.0.1 - 14-07-2023 =
 * [Enhancement] Fully compatible with WordPress 6.2.2
+* [Enhancement] Fully compatible with WordPress 7.9.1
 
 = 3.9.3.1 - 08-06-2023 =
 * [Bug Fix] - Quick fix related to the PHP Fatal error: Uncaught TypeError: in_array()

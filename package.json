@@ -1,0 +1,30 @@
+{
+  "name": "woo-shipping-display",
+  "version": "1.1.0",
+  "description": "This script will help to filter out coding standard, JS lint and make zip forlder for upload on freemius platform for theDotstore team only.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sagar Jariwala <sagar.jariwala@multidots.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/eslint-plugin": "^14.6.0",
+    "eslint": "^8.40.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-semistandard": "^17.0.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "grunt": "^1.4.1",
+    "grunt-checktextdomain": "^1.0.1",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-compress": "^2.0.0",
+    "grunt-contrib-jshint": "^3.1.1",
+    "grunt-eslint": "^24.1.0",
+    "grunt-jsvalidate": "^0.2.2",
+    "grunt-phpcs": "^0.4.0",
+    "grunt-wp-i18n": "^1.0.3"
+  }
+}

@@ -1,6 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
+/* new */
 @media screen and (min-width:1200px) and (max-width:1300px){
 	table#tbl-product-fee tr td input#product_fees_conditions_values{width:20em;}
 }

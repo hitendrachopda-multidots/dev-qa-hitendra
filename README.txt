@@ -12,7 +12,7 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Charge extra fees in cart, based on the combination of multiple conditional rules that you configure.
+Charge extra fees in cart, based on the combination of multiple conditional rules that you configure easily.
 
 == Description ==
 

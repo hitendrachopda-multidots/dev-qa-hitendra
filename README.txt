@@ -1,5 +1,5 @@
 === QA TEST ===
-Contributors: dots,kakshak,dency,jariwalasagar,Sahil
+Contributors: dots,kakshak,dency,Sahil,jariwalasagar
 Donate link: http://thedotstore.com/
 Author: Thedotstore
 Author URI: https://www.thedotstore.com/

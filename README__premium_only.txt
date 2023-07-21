@@ -1,5 +1,5 @@
 === Extra Fees Plugin for WooCommerce ===
-Contributors: dots,kakshak,dency,jariwalasagar
+Contributors: dots,kakshak,dency,jariwalasagar, Sahil
 Tags: cart fee, category, e-commerce, Extra Charge, woocommerce extra cost, extra fee, minimum order,surcharge,woocommerce extra fee, woocommerce additional fees,woocommerce checkout plugin,woocommerce conditional shipping fees,woocommerce conditional, woocommerce shipping classes fees, woocommerce fees, woocommerce add shipping method fees, woocommerce extra cost, woocommerce additional cost, Woocommerce advanced fees
 Requires at least: 5.0
 Tested up to: 6.2.2

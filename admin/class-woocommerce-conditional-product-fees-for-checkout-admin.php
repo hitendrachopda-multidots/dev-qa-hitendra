@@ -14,6 +14,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 class Woocommerce_Conditional_Product_Fees_For_Checkout_Pro_Admin {
 	const wcpfc_post_type = 'wc_conditional_fee';
+	const demo = 'check';
 	/**
 	 * The ID of this plugin.
 	 *

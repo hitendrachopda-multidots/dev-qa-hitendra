@@ -5,7 +5,7 @@
  * Plugin URI:          https://www.thedotstore.com/woocommerce-conditional-product-fees-checkout/
  * Description:         With this plugin, you can create and manage complex fee rules in WooCommerce store without the help of a developer.
  * Version:             3.9.3.2
- * Update URI: https://api.freemius.com
+ * Update URI:          https://api.freemius.com
  * Author:              theDotstore
  * Author URI:          https://www.thedotstore.com/
  * License:             GPL-2.0+

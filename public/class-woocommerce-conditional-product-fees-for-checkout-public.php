@@ -62,7 +62,7 @@ class Woocommerce_Conditional_Product_Fees_For_Checkout_Pro_Public {
 		 *
 		 * The Woocommerce_Conditional_Product_Fees_For_Checkout_Pro_Loader will then create the relationship
 		 * between the defined hooks and the functions defined in this
-		 * class.
+		 * class. - Done
 		 */
 		wp_enqueue_style( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'css/woocommerce-conditional-product-fees-for-checkout-public.css', array(), $this->version, 'all' );
 		if( is_cart() || is_checkout() ){

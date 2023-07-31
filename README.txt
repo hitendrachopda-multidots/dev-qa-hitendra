@@ -8,7 +8,7 @@ Requires at least: 5.0
 Requires PHP: 7.2
 Tested up to: 6.2.2
 WC tested up to: 7.7.2
-Stable tag: 1.0.7
+Stable tag: 1.0.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
